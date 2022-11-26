@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hardware programming
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me same handle on Twitter
+- 📫 Reach me at the same handle on Twitter
 
 <!---
 AQuietRussian/AQuietRussian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
